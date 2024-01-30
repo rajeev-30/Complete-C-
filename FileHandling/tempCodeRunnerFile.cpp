@@ -1,0 +1,2 @@
+g();
+    // cout<<file.tellp();
